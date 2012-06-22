@@ -1,4 +1,4 @@
-Rovi Artist Age# What is "Rovi Artist Age"?
+# What is "Rovi Artist Age"?
  
 "Rovi Artist Age" is a fun little [Alfred](http://www.alfredapp.com/) extension built using Python, that allows you to find the age and date of birth of any music artist using their first or last name using Rovi's artist info API. No more guessing, madonna & britney's date of births at your finger tips!
 
@@ -24,15 +24,15 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 
 2. Just hit your Alfred keyboard shortcut. In my case I have it configured it as CMD + SPACE. (The default is probably ALT + SPACE)
 
-	![Alfred Launch Bar](https://github.com/ajotwani/rovi-artist-age/raw/master/images/alfred_launch_bar.png)
+	![Alfred Launch Bar](https://github.com/mashery/rovi-artist-age/raw/master/images/alfred_launch_bar.png)
 	
 3. Type the keyword **age** followed by the first or last name of the artist you want to find the date of birth for (You can change the keyword by editing the info.plist file)
 
-	![Alfred Launch Bar](https://github.com/ajotwani/rovi-artist-age/raw/master/images/alfred_launch_bar_fill.png)	
+	![Alfred Launch Bar](https://github.com/mashery/rovi-artist-age/raw/master/images/alfred_launch_bar_fill.png)	
 	
 4. You get a Growl notification with the date of birth and the age of the artist
 
-	![Alfred Growl Notification](https://github.com/ajotwani/rovi-artist-age/raw/master/images/alfred_growl.png)
+	![Alfred Growl Notification](https://github.com/mashery/rovi-artist-age/raw/master/images/alfred_growl.png)
 
 
 ## Examples ##
@@ -43,7 +43,7 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 
 	
 1. Grab the latest source
-	<pre>git clone git://github.com/ajotwani/rovi-artist-age.git</pre>
+	<pre>git clone git://github.com/mashery/rovi-artist-age.git</pre>
 
 2. Copy the directory you just downloaded to -
 	<pre>~/Library/Application Support/Alfred/extensions/scripts</pre>
@@ -52,7 +52,7 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 
 4. Open the file "~/Library/Application Support/Alfred/extensions/scripts/Rovi Artist Age/rovi_auth.py" and type in your Rovi **API key** & **Shared Secret**. Get your Rovi (Metadata and Search) API Key [here](http://developer.rovicorp.com)
 
-	![Type your Rovi API Key](https://github.com/ajotwani/rovi-artist-age/raw/master/images/rovi_api_key.png)
+	![Type your Rovi API Key](https://github.com/mashery/rovi-artist-age/raw/master/images/rovi_api_key.png)
 
 5. You're done. Just give Alfred a whirl now. Refer [How to Use](#how-to-use) above.
 
@@ -61,7 +61,7 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 Be sure to follow the configuration steps above and use this step-by-step guide to tweak to your heart's content.
 
 1. Grab the latest source
-	<pre>git clone git://github.com/ajotwani/rovi-artist-age.git</pre>
+	<pre>git clone git://github.com/mashery/rovi-artist-age.git</pre>
 
 2. All the Rovi search related action takes place in the file 'rovi\_search\_.py'
 
