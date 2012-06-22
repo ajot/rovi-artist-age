@@ -15,8 +15,8 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 
 1. [Alfred](http://www.alfredapp.com/) + [Alfred Powerpack](http://www.alfredapp.com/powerpack/)
 2. [Rovi API Key](http://developer.rovicorp.com)
-3. Growl
-4. Nice and shiny Mac - Of course you have one!
+3. [Growl](http://growl.info)
+4. [Nice and shiny Mac](http://www.youtube.com/results?search_query=get+a+mac) - Of course you have one!
 
 ## How to Use
 
