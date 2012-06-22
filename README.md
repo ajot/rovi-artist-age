@@ -67,7 +67,7 @@ Be sure to follow the configuration steps above and use this step-by-step guide 
 
 3. All the Rovi auth related action takes place in the file 'rovi_auth.py'
 
-4. Tweak away
+4. Tweak away!
 
 
 ## About 
