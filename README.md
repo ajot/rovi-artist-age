@@ -46,7 +46,7 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 	<pre>git clone git://github.com/mashery/rovi-artist-age.git</pre>
 
 2. Copy the directory you just downloaded to -
-	<pre>~/Library/Application Support/Alfred/extensions/scripts</pre>
+	<pre>~/Library/Application\ Support/Alfred/extensions/scripts</pre>
 
 3. Rename this directory to say "Rovi Artist Age"	
 
