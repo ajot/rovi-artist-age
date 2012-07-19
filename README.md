@@ -24,15 +24,15 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 
 2. Just hit your Alfred keyboard shortcut. In my case I have it configured it as CMD + SPACE. (The default is probably ALT + SPACE)
 
-	![Alfred Launch Bar](https://github.com/mashery/rovi-artist-age/raw/master/images/alfred_launch_bar.png)
+	![Alfred Launch Bar](https://github.com/mashery/rovi-artist-age/raw/master/development/images/alfred_launch_bar.png)
 	
 3. Type the keyword **age** followed by the first or last name of the artist you want to find the date of birth for (You can change the keyword by editing the info.plist file)
 
-	![Alfred Launch Bar](https://github.com/mashery/rovi-artist-age/raw/master/images/alfred_launch_bar_fill.png)	
+	![Alfred Launch Bar](https://github.com/mashery/rovi-artist-age/raw/master/development/images/alfred_launch_bar_fill.png)	
 	
 4. You get a Growl notification with the date of birth and the age of the artist
 
-	![Alfred Growl Notification](https://github.com/mashery/rovi-artist-age/raw/master/images/alfred_growl.png)
+	![Alfred Growl Notification](https://github.com/mashery/rovi-artist-age/raw/master/development/images/alfred_growl.png)
 
 
 ## Examples ##
@@ -41,18 +41,15 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 
 ## Installation
 
-	
-1. Grab the latest source
-	<pre>git clone git://github.com/mashery/rovi-artist-age.git</pre>
+1. Download the extension [here](https://github.com/mashery/alfred-show-me-the-klout/raw/master/rovi-artist-age.zip) 
 
-2. Copy the directory you just downloaded to -
-	<pre>~/Library/Application\ Support/Alfred/extensions/scripts</pre>
+2. Double click on the .alfredextension file you just download. The extension will install and open up the preferences window in Alfred.
 
-3. Rename this directory to say "Rovi Artist Age"	
+3. Right click on the extension on the left side bar in Alfred (Extension tab) and click on "Show in Finder". The source files for the extension will open up in Finder. 
 
-4. Open the file "~/Library/Application Support/Alfred/extensions/scripts/Rovi Artist Age/rovi_auth.py" and type in your Rovi **API key** & **Shared Secret**. Get your Rovi (Metadata and Search) API Key [here](http://developer.rovicorp.com)
+4. Open the file "rovi_auth.py" and type in your Rovi **API key** & **Shared Secret**. Get your Rovi (Metadata and Search) API Key [here](http://developer.rovicorp.com)
 
-	![Type your Rovi API Key](https://github.com/mashery/rovi-artist-age/raw/master/images/rovi_api_key.png)
+	![Type your Rovi API Key](https://github.com/mashery/rovi-artist-age/raw/master/development/images/rovi_api_key.png)
 
 5. You're done. Just give Alfred a whirl now. Refer [How to Use](#how-to-use) above.
 
