@@ -41,7 +41,7 @@ Why? Cause it's easy, fun. Why open a browser when you can find madonna's age wi
 
 ## Installation
 
-1. Download the extension [here](https://github.com/mashery/alfred-show-me-the-klout/raw/master/rovi-artist-age.zip) 
+1. Download the extension [here](https://github.com/mashery/rovi-artist-age/raw/master/rovi-artist-age.zip) 
 
 2. Double click on the .alfredextension file you just download. The extension will install and open up the preferences window in Alfred.
 
